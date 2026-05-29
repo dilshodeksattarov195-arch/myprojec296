@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedecrypt",
+        "uuid": 685536,
+        "checksum": "m6ywy"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
